@@ -2,7 +2,7 @@
 -- $Version: 0.1$
 -- $Author: Анонимный автор$
  
-instead_version "1.9.1"
+--instead_version "1.9.1"
  
 require "para"
 require "dash"
