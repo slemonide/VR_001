@@ -33,7 +33,7 @@ sign = obj {
 };
 
 treasury = room {
-	nam = 'Сокровещница';
+	nam = 'Сокровищница';
 	pic = 'gfx/treasury.png';
 	dsc = [[На стене висит табличка "Не входить." К чему бы это?]];
 	way = {'hall','main','exit','die'};
